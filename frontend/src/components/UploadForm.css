@@ -1,0 +1,14 @@
+.upload-container {
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.analysis-output {
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 16px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
